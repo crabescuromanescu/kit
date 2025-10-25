@@ -45,6 +45,7 @@ Ensure Dyno on Discord can message you as we use it to alert users of deleted su
     * Do not edit any existing scripts. These changes will not carry over ingame and will cause issues. If you wish to write a custom script or make minor script edits to an existing object, please read [the guidelines on them](misc.md#writingediting-repository-scripts) to avoid issues.
     * Custom scripts that affect lighting (without using the built-in `LightingManager`) are entirely disallowed.
 * No AI Generated content whatsoever.
+* If yall are etoh devs, can you please add it so it applies only if it is a joke in the tower and not serious?
 
 ## Tower Submission
 
